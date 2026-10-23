@@ -33,7 +33,7 @@
 
 Deploy instantly on Heroku:
 
-[![Deploy on Heroku](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://gitlab.com/zokou1/zokou-md-english.git)
+[![Deploy on Heroku](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/kkeizzah9/zokou-md-english)
 
 ---
 
